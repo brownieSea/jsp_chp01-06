@@ -13,8 +13,8 @@
 	%>
 	<div id="contents">
 		<ol>
-			<li><a href="login.jsp">로그인</a></li>
-			<li><a href="memberJoin.jsp">회원가입</a></li>
+			<a href="login.jsp"><li>로그인</li></a>
+			<a href="memberJoin.jsp"><li>회원가입</li></a>
 		</ol>
 	</div>
 </body>
